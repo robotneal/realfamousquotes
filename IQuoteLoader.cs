@@ -1,6 +1,4 @@
-﻿using Microsoft.VisualBasic.FileIO;
-
-namespace Quotes;
+﻿namespace Quotes;
 
 public interface IQuoteLoader
 {
